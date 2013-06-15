@@ -1,0 +1,9 @@
+- spine 4 red issue- spliced with common?
+- right claw needs to be jumpered
+- driver ww missing green
+- cable cleanup
+- revised touchOSC layout on doyle phone
+- WiFi router needs to be acquired and set up- touchOSC clients need to know correct IP.
+- replace and splice product to extent of patience.
+- possible dimmer pack replacement, depending upon china's feelings.
+- strengthen ALL XLR connections on dimmers.
